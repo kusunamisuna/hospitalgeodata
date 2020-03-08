@@ -4,4 +4,4 @@
   - API：'http://www.geocoding.jp/api/
 
 ## 使用方法
-- `python3 gethospitalgeodata.py`
+- `python3 gethospitalgeodata.py {県コード}`
