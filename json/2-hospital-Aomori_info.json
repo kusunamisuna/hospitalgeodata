@@ -1,0 +1,211 @@
+[
+    {
+        "id": "1",
+        "type": "独立行政法人国立病院機構",
+        "name": "八戸病院",
+        "url": "http://www.hosp.go.jp/~hatinohe/",
+        "beds": "138",
+        "address": "八戸市吹上3-13-1",
+        "tel": "0178-45-6111",
+        "lat": "40.499966",
+        "lon": "141.496103"
+    },
+    {
+        "id": "2",
+        "type": "独立行政法人労働者健康安全機構",
+        "name": "青森労災病院",
+        "url": "https://www.aomorih.johas.go.jp/",
+        "beds": "468",
+        "address": "八戸市大字白銀町字南ヶ丘1番地",
+        "tel": "0178-33-1551",
+        "lat": "40.51775",
+        "lon": "141.545298"
+    },
+    {
+        "id": "3",
+        "type": "都道府県",
+        "name": "青森県立中央病院",
+        "url": "http://aomori-kenbyo.jp/",
+        "beds": "684",
+        "address": "青森市東造道2-1-1",
+        "tel": "017-726-8111",
+        "lat": "40.829795",
+        "lon": "140.79478"
+    },
+    {
+        "id": "4",
+        "type": "市町村",
+        "name": "青森市民病院",
+        "url": "https://www.city.aomori.aomori.jp/byouin/top.html",
+        "beds": "459",
+        "address": "青森市勝田1-14-20",
+        "tel": "017-734-2171",
+        "lat": "40.815814",
+        "lon": "140.754871"
+    },
+    {
+        "id": "5",
+        "type": "市町村",
+        "name": "黒石市国民健康保険黒石病院",
+        "url": "http://hospital-kuroishi.jp",
+        "beds": "257",
+        "address": "黒石市北美町一丁目70番地",
+        "tel": "0172-52-2121",
+        "lat": "40.655347",
+        "lon": "140.601072"
+    },
+    {
+        "id": "6",
+        "type": "市町村",
+        "name": "公立七戸病院",
+        "url": "http://www.hospital-shichinohe.aomori.jp/",
+        "beds": "110",
+        "address": "上北郡七戸町字影津内98-1",
+        "tel": "0176-62-2105",
+        "lat": "40.698472",
+        "lon": "141.158548"
+    },
+    {
+        "id": "7",
+        "type": "市町村",
+        "name": "国民健康保険大間病院",
+        "url": "http://www.shimokita-mc.jp/oma/",
+        "beds": "48",
+        "address": "下北郡大間町大字大間字大間平20-78",
+        "tel": "0175-37-2105",
+        "lat": "41.526564",
+        "lon": "140.926709"
+    },
+    {
+        "id": "8",
+        "type": "市町村",
+        "name": "三戸中央病院",
+        "url": "http://www.sannohe-hp.jp/",
+        "beds": "142",
+        "address": "三戸郡三戸町川守田字沖中9-1",
+        "tel": "0179-20-1131",
+        "lat": "40.390954",
+        "lon": "141.268016"
+    },
+    {
+        "id": "9",
+        "type": "市町村",
+        "name": "つがる総合病院",
+        "url": "http://www.tsgren.jp/tsugaru-general-hospital/",
+        "beds": "438",
+        "address": "五所川原市字岩木町12番地3",
+        "tel": "0173-35-3111",
+        "lat": "40.80786",
+        "lon": "140.440781"
+    },
+    {
+        "id": "10",
+        "type": "市町村",
+        "name": "十和田市立中央病院",
+        "url": "http://www.hp-chuou-towada.towada.aomori.jp/",
+        "beds": "379",
+        "address": "十和田市西十二番町14-8",
+        "tel": "0176-23-5121",
+        "lat": "40.611893",
+        "lon": "141.204401"
+    },
+    {
+        "id": "11",
+        "type": "市町村",
+        "name": "八戸市立市民病院",
+        "url": "http://www.hospital.hachinohe.aomori.jp",
+        "beds": "608",
+        "address": "八戸市田向三丁目１番1号",
+        "tel": "0178-72-5111",
+        "lat": "40.493803",
+        "lon": "141.512439"
+    },
+    {
+        "id": "12",
+        "type": "市町村",
+        "name": "弘前市立病院",
+        "url": "http://www.city.hirosaki.aomori.jp/hospital/",
+        "beds": "250",
+        "address": "弘前市大字大町3-8-1",
+        "tel": "0172-34-3211",
+        "lat": "40.597074",
+        "lon": "140.478471"
+    },
+    {
+        "id": "13",
+        "type": "市町村",
+        "name": "三沢市立三沢病院",
+        "url": "http://www.hospital.misawa.aomori.jp/",
+        "beds": "220",
+        "address": "三沢市大字三沢字堀口164-65",
+        "tel": "0176-53-2161",
+        "lat": "40.669329",
+        "lon": "141.389883"
+    },
+    {
+        "id": "14",
+        "type": "市町村",
+        "name": "むつ総合病院",
+        "url": "http://www.hospital-mutsu.or.jp/",
+        "beds": "434",
+        "address": "むつ市小川町1-2-8",
+        "tel": "0175-22-2111",
+        "lat": "41.293311",
+        "lon": "141.201229"
+    },
+    {
+        "id": "15",
+        "type": "日赤",
+        "name": "八戸赤十字病院",
+        "url": "http://www.hachinohe.jrc.or.jp",
+        "beds": "434",
+        "address": "八戸市田面木字中明戸2",
+        "tel": "0178-27-3111",
+        "lat": "40.500889",
+        "lon": "141.447915"
+    },
+    {
+        "id": "16",
+        "type": "公益法人",
+        "name": "メディカルコート八戸西病院",
+        "url": "http://sg-silver.jp/",
+        "beds": "199",
+        "address": "八戸市長苗代字中坪77",
+        "tel": "0178-28-4000",
+        "lat": "40.516983",
+        "lon": "141.451529"
+    },
+    {
+        "id": "17",
+        "type": "医療法人",
+        "name": "八戸平和病院",
+        "url": "http://www.heiwa-hp.or.jp/",
+        "beds": "121",
+        "address": "八戸市湊高台2-4-6",
+        "tel": "0178-31-2222",
+        "lat": "40.506896",
+        "lon": "141.53752"
+    },
+    {
+        "id": "18",
+        "type": "医療生協",
+        "name": "健生病院",
+        "url": "https://www.kensei-hp.jp/",
+        "beds": "282",
+        "address": "弘前市大字扇町2-2-2",
+        "tel": "0172-55-7717",
+        "lat": "40.58658",
+        "lon": "140.50135"
+    },
+    {
+        "id": "19",
+        "type": "その他法人",
+        "name": "鳴海病院",
+        "url": "http://www.narumihospital.or.jp/",
+        "beds": "116",
+        "address": "弘前市品川町19",
+        "tel": "0172-32-5211",
+        "lat": "40.596965",
+        "lon": "140.475238"
+    }
+]

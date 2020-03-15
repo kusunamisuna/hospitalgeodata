@@ -29,6 +29,13 @@ def coordinate(address):
     addressに住所を指定すると緯度経度を返す。
 
     """
+
+    # 一部住所で取得できないため、修正
+    if address == '大分市羽屋9組5':
+        address = '大分市羽屋9-5組'
+    if address == '仙北市角館町岩瀬3':
+        address = '市立角館総合病院'
+
     payload = {'q': address}
     html = requests.get(URL, params=payload)
     soup = BeautifulSoup(html.content, "html.parser")

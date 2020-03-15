@@ -1,0 +1,101 @@
+[
+    {
+        "id": "1",
+        "type": "独立行政法人国立病院機構",
+        "name": "都城医療センター",
+        "url": "http://www.nho-miyakon.jp/",
+        "beds": "307",
+        "address": "都城市祝吉町5033-1",
+        "tel": "0986-23-4111",
+        "lat": "31.739997",
+        "lon": "131.087053"
+    },
+    {
+        "id": "2",
+        "type": "都道府県",
+        "name": "宮崎県立延岡病院",
+        "url": "http://nobeoka-kenbyo.jp/",
+        "beds": "410",
+        "address": "延岡市新小路2-1-10",
+        "tel": "0982-32-6181",
+        "lat": "32.570236",
+        "lon": "131.66641"
+    },
+    {
+        "id": "3",
+        "type": "都道府県",
+        "name": "宮崎県立宮崎病院",
+        "url": "http://kenritsu-miyazakibyouin.jp/",
+        "beds": "535",
+        "address": "宮崎市北高松町5-30",
+        "tel": "0985-24-4181",
+        "lat": "31.916647",
+        "lon": "131.416399"
+    },
+    {
+        "id": "4",
+        "type": "済生会",
+        "name": "宮崎県済生会日向病院",
+        "url": "http://www.hyuga.saiseikai.or.jp",
+        "beds": "199",
+        "address": "東臼杵郡門川町南町4-128",
+        "tel": "0982-63-1321",
+        "lat": "32.458018",
+        "lon": "131.647597"
+    },
+    {
+        "id": "5",
+        "type": "特定医療法人",
+        "name": "戸嶋病院",
+        "url": "http://keiwakaigroup.com/hp/service/about.php",
+        "beds": "131",
+        "address": "都城市郡元1-9-5",
+        "tel": "0986-22-1437",
+        "lat": "31.742867",
+        "lon": "131.089959"
+    },
+    {
+        "id": "6",
+        "type": "社会医療法人",
+        "name": "市民の森病院",
+        "url": "http://www.m-zenjin.or.jp/shimin/",
+        "beds": "108",
+        "address": "宮崎市大字塩路2783-37",
+        "tel": "0985-39-7630",
+        "lat": "31.96564",
+        "lon": "131.468417"
+    },
+    {
+        "id": "7",
+        "type": "社会医療法人",
+        "name": "千代田病院",
+        "url": "http://www.chiyoda-hp.jp/",
+        "beds": "196",
+        "address": "日向市大字日知屋古田町88",
+        "tel": "0982-52-7111",
+        "lat": "32.424166",
+        "lon": "131.650285"
+    },
+    {
+        "id": "8",
+        "type": "その他法人",
+        "name": "野崎病院",
+        "url": "http://www.koujunkai.jp/nozaki/",
+        "beds": "460",
+        "address": "宮崎市大字恒久5567",
+        "tel": "0985-51-3111",
+        "lat": "31.888009",
+        "lon": "131.405244"
+    },
+    {
+        "id": "9",
+        "type": "その他法人",
+        "name": "延岡市医師会病院",
+        "url": "http://nobeokashiishikai.or.jp/hospital/",
+        "beds": "108",
+        "address": "延岡市出北6-1621",
+        "tel": "0982-21-1302",
+        "lat": "32.575391",
+        "lon": "131.689471"
+    }
+]

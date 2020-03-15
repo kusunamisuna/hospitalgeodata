@@ -1,0 +1,112 @@
+[
+    {
+        "id": "1",
+        "type": "独立行政法人労働者健康安全機構",
+        "name": "山陰労災病院",
+        "url": "http://www.saninh.johas.go.jp/",
+        "beds": "377",
+        "address": "米子市皆生新田1-8-1",
+        "tel": "0859-33-8181",
+        "lat": "35.451819",
+        "lon": "133.364536"
+    },
+    {
+        "id": "2",
+        "type": "都道府県",
+        "name": "鳥取県立厚生病院",
+        "url": "http://www.pref.tottori.lg.jp/kouseibyouin/",
+        "beds": "304",
+        "address": "倉吉市東昭和町150",
+        "tel": "0858-22-8181",
+        "lat": "35.436131",
+        "lon": "133.840773"
+    },
+    {
+        "id": "3",
+        "type": "都道府県",
+        "name": "鳥取県立中央病院",
+        "url": "http://www.pref.tottori.lg.jp/chuoubyouin/",
+        "beds": "518",
+        "address": "鳥取市江津730",
+        "tel": "0857-26-2271",
+        "lat": "35.522522",
+        "lon": "134.211989"
+    },
+    {
+        "id": "4",
+        "type": "市町村",
+        "name": "鳥取市立病院",
+        "url": "http://hospital.tottori.tottori.jp/",
+        "beds": "340",
+        "address": "鳥取市的場1-1",
+        "tel": "0857-37-1522",
+        "lat": "35.474412",
+        "lon": "134.234376"
+    },
+    {
+        "id": "5",
+        "type": "日赤",
+        "name": "鳥取赤十字病院",
+        "url": "http://www.tottori-med.jrc.or.jp/",
+        "beds": "350",
+        "address": "鳥取市尚徳町117",
+        "tel": "0857-24-8111",
+        "lat": "35.501561",
+        "lon": "134.235642"
+    },
+    {
+        "id": "6",
+        "type": "済生会",
+        "name": "鳥取県済生会境港総合病院",
+        "url": "http://www.sakaiminato-saiseikai.jp",
+        "beds": "197",
+        "address": "境港市米川町44",
+        "tel": "0859-42-3161",
+        "lat": "35.539753",
+        "lon": "133.221926"
+    },
+    {
+        "id": "7",
+        "type": "医療法人",
+        "name": "北岡病院",
+        "url": "http://kitaoka-hp.jp/",
+        "beds": "102",
+        "address": "倉吉市明治町1031-5",
+        "tel": "0858-22-3176",
+        "lat": "35.433876",
+        "lon": "133.82346"
+    },
+    {
+        "id": "8",
+        "type": "医療法人",
+        "name": "野島病院",
+        "url": "http://www.nojima-hospital.jp",
+        "beds": "190",
+        "address": "倉吉市瀬崎町2714-1",
+        "tel": "0858-22-6231",
+        "lat": "35.431562",
+        "lon": "133.819912"
+    },
+    {
+        "id": "9",
+        "type": "特定医療法人",
+        "name": "博愛病院",
+        "url": "http://www.hakuai-hp.jp",
+        "beds": "199",
+        "address": "米子市両三柳1880",
+        "tel": "0859-29-1100",
+        "lat": "35.455395",
+        "lon": "133.31928"
+    },
+    {
+        "id": "10",
+        "type": "社会医療法人",
+        "name": "医療福祉センター　倉吉病院",
+        "url": "https://www.med-wel.jp",
+        "beds": "278",
+        "address": "倉吉市山根43",
+        "tel": "0858-26-1011",
+        "lat": "35.452216",
+        "lon": "133.856015"
+    }
+]
